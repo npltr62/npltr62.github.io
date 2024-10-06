@@ -1,9 +1,11 @@
 ---
-title: WebPDPG
-summary: Interface WEB de consultation du PDPG.
+title: Questionnaire AAPPMA
+summary: Questionnaire à destination des AAPPMA, dans le but d'avoir leurs ressenti sur le milieu.
 tags:
   - Deep Learning
 date: '2024-05-07'
+type: docs
+math: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,8 +31,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-## Genèse du projet
 
 La **Fédération de Maine-et-Loire pour la Pêche et la Protection du Milieu Aquatique** a initié l'idée d'une application Web de consultation du PDPG.
 ### Qu’appelle-t-on le PDPG ?

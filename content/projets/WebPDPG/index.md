@@ -1,10 +1,11 @@
 ---
 title: WebPDPG
 summary: Interface WEB de consultation du PDPG.
+date: 2023-10-24
+type: docs
+math: false
 tags:
-  - Deep Learning
-date: '2024-05-07'
-
+  - Python
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
@@ -13,24 +14,11 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
-
-## Genèse du projet
 
 La **Fédération de Maine-et-Loire pour la Pêche et la Protection du Milieu Aquatique** a initié l'idée d'une application Web de consultation du PDPG.
 ### Qu’appelle-t-on le PDPG ?

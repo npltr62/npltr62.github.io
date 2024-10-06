@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Télécharger mon CV
-        url: uploads/CV_2024-05-25_Nicolas_Pelletier.pdf
+        url: uploads/CV_2024-09-23_Nicolas_Pelletier.pdf
     design: 
       biography:
         # Customize the style of your biography text

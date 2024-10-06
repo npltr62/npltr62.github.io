@@ -23,8 +23,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:nico.pe62@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/npltr62
   - icon: brands/linkedin
@@ -85,4 +83,4 @@ work:
       - Mises à jour et contrôle de la qualitée des données du SIG
       - Réalisation de requêtes et cartes thématiques ( Model Builder)
 ---
-Passionné par mon métier, je consacre du temps à apprendre et à suivre les évolutions informatiques et technologiques pour maîtriser l'ensemble de la chaîne des systèmes d'information géographique (SIG).
+Passionné par mon métier, je consacre du temps à apprendre et à suivre les évolutions informatiques et technologiques. Cela me permet d'être capable de maîtriser l'ensemble de la chaîne des systèmes d'information géographique (SIG).

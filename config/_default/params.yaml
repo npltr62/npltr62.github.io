@@ -17,11 +17,7 @@ marketing:
     description: ''
     twitter: ''
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: 'G-WNW8NQKWX8'
   verification:
     google: ''
     baidu: ''

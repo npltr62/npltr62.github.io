@@ -1,6 +1,8 @@
 ---
-title: WebPDPG
-summary: Interface WEB de consultation du PDPG.
+title: Plugins QGIS
+summary: Outils facilitant les manipulations des utilisateurs
+type: docs
+math: false
 tags:
   - Deep Learning
 date: '2024-05-07'
@@ -13,10 +15,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,8 +27,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-## Genèse du projet
 
 La **Fédération de Maine-et-Loire pour la Pêche et la Protection du Milieu Aquatique** a initié l'idée d'une application Web de consultation du PDPG.
 ### Qu’appelle-t-on le PDPG ?
