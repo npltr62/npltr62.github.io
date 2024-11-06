@@ -4,6 +4,7 @@
       "a",
       "article",
       "aside",
+      "blockquote",
       "body",
       "button",
       "circle",
@@ -40,7 +41,8 @@
       "svg",
       "time",
       "title",
-      "ul"
+      "ul",
+      "video"
     ],
     "classes": [
       "-mr-4",
@@ -345,7 +347,13 @@
     ],
     "ids": [
       "Projets",
+      "déploiement",
+      "déploiement-de-loutil",
+      "ensuite-faire-linventaire-des-données-externe-nécessaires-au-pdpg",
+      "etat-des-leiux",
+      "etat-des-lieux",
       "hide-button",
+      "la-fd49-ne-possédant-pas-de-base-de-données-il-a-fallu-faire-linventaire-des-données-existantes",
       "moon",
       "nav-menu",
       "nav-toggle",
