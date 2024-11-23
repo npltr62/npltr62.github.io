@@ -33,3 +33,7 @@ slides: example
 ---
 Dans le cadre du PDPG, Il a été demandé de developper un questionnaire visant à sonder les AAPPMA du département sur l'état de leur milieu aquatique.
 <video src="demo.mp4" controls></video>
+La phase de dévellopement s'est faite directement en ligne dans JSFiddle en utilisant la librairie Javascript SyrveyJS.
+la mise en production a necessité l'utilisation du framework ElectronJS afin de répondre à la demande d'une application hors ligne.
+
+> Electron est un framework permettant de construire des applications de bureau en utilisant JavaScript, HTML et CSS.

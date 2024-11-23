@@ -25,6 +25,8 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/npltr62
+  - icon: brands/gitlab
+    url: https://gitlab.com/npltr62  
   - icon: brands/linkedin
     url: https://www.linkedin.com/npltr62
 
